@@ -62,15 +62,14 @@ Hvordan skal jeg levere fra meg et estimat?
 +++
 Hva prioriterer vi utviklere hos Knowit? 
 +++
+ Customer over code?
++++
+ Fast delivery over reusability?
++++
 Bør jeg utfører Code Review?
 
 ---
 #### Hva prioriterer vi som utviklere hos Knowit? 
-+++
- Customer over code?
-+++
- Fast delivery over reusability?
- 
 ---
 Heldigvis.. Har vi en Arkitektgruppe
 ---
