@@ -52,3 +52,22 @@
 ---
 
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
+---
+### Hvorfor
++++
+* Delt faglig kultur
++++
+![alt text]("https://i.imgur.com/mX4UyUc.gifv")
+
++++
+
+* God branding i det faglige miljøet
+* 
+
+---
+### Hvordan
+
++++ 
+* Et fullverdig prosjekt
++++ 
+* Intro til Umbraco
