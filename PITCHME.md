@@ -67,8 +67,16 @@
 ![kaos](https://i.imgur.com/mX4UyUc.gif)
 +++
 * Utviklere er brukere de også
-  * Confluence kan ikke bære en kultur like godt som en nettside
-  * Se på https://www.buddhapest.info/
++++
+* Confluence kan ikke bære en kultur like godt som en nettside
++++
+* Se på https://www.buddhapest.info/
+
++++
+
+* Everyone is a snowflake
+* Vi trenger retningslinjer og enighet om kultur
+* Utviklere er brukere de også
 
 ---
 
