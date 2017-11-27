@@ -65,20 +65,26 @@ Hva prioriterer vi utviklere hos Knowit?
 Bør jeg utfører Code Review?
 
 ---
-### Hva prioriterer vi som utviklere hos Knowit? 
+#### Hva prioriterer vi som utviklere hos Knowit? 
 +++
  Customer over code?
 +++
  Fast delivery over reusability?
+ 
+---
+Heldigvis.. Har vi en Arkitektgruppe, som forhåpentligvis leter etter svar på noen av disse spørsmålene. 
+---
+---
+#### Vekke et ønske
 +++
+* Delta i kulturen
 
 ---
-
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
 ---
 
-### Hvorfor
-## trenger vi alt dette?
+### En portal.
+## Hvorfor trenger vi alt dette?
 ---
 * Code Review er et *veldig* bra første steg.. men.. 
 ---
@@ -115,7 +121,6 @@ Bør jeg utfører Code Review?
 ![smooth](https://i.imgur.com/KGyFG3e.gif)
 
 +++
-
 * God branding i det faglige miljøet
 
 +++
@@ -152,3 +157,5 @@ Bør jeg utfører Code Review?
 * Faggruppen som produkteier 
 * Faggruppen står for innhold
 
++++
+![kaos](https://i.imgur.com/mX4UyUc.gif)
