@@ -72,12 +72,12 @@ Bør jeg utfører Code Review?
  Fast delivery over reusability?
  
 ---
-Heldigvis.. Har vi en Arkitektgruppe, som forhåpentligvis leter etter svar på noen av disse spørsmålene. 
+Heldigvis.. Har vi en Arkitektgruppe
 ---
----
+
 #### Vekke et ønske
 +++
-* Delta i kulturen
+Om å delta i kulturen vår
 
 ---
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
