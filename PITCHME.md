@@ -31,7 +31,7 @@
 
 ---
 
-### Fagportal
+### fag.knowit.tools
 
 * 3 deler
 +++
@@ -54,8 +54,10 @@
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
 
 ---
+* Code Review er et *veldig* bra første steg.. men.. 
+---
 ### Hvorfor
-## trenger vi dette?
+## trenger vi alt dette?
 
 +++
 * Everyone is a snowflake
@@ -64,7 +66,9 @@
 +++
 ![kaos](https://i.imgur.com/mX4UyUc.gif)
 +++
-
+* Utviklere er brukere de også
+  * Confluence kan ikke bære en kultur like godt som en nettside
+  * Se på https://www.buddhapest.info/
 
 ---
 
@@ -84,18 +88,35 @@
 * God branding i det faglige miljøet
 
 +++
-* Intro til Umbraco
-
-+++
 * Mulighet for tverrfaglig samarbeid
 
 +++
-* Intro til Umbraco
+* Delt faglig kultur
+* God branding i det faglige miljøet
+* Mulighet for tverrfaglig samarbeid
 
 
 ---
 ### Hvordan
 
+* fag.knowit.tools
 +++ 
-* Et fullverdig prosjekt
+* Intro til Umbraco
 +++ 
+* Et fullverdig prosjekt. Åpent for alle å bidra til prosjektet. 
++++
+* Sommerstudenter: design og utvikling
++++
+* Faggruppen som produkteier 
++++
+* Faggruppen står for innhold
+
++++ 
+
+* fag.knowit.tools
+* Intro til Umbraco
+* Et fullverdig prosjekt. Åpent for alle å bidra til prosjektet. 
+* Sommerstudenter: design og utvikling
+* Faggruppen som produkteier 
+* Faggruppen står for innhold
+
