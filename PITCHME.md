@@ -54,18 +54,30 @@
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
 ---
 ### Hvorfor
+## Hvorfor lage dette?
+
 +++
 * Delt faglig kultur
+
 +++
 ![kaos](https://i.imgur.com/mX4UyUc.gif)
 
-
 +++
 ![smooth](https://i.imgur.com/KGyFG3e.gif)
+
 +++
 
 * God branding i det faglige miljøet
-* 
+
++++
+* Intro til Umbraco
+
++++
+* Mulighet for tverrfaglig samarbeid
+
++++
+* Intro til Umbraco
+
 
 ---
 ### Hvordan
@@ -73,4 +85,3 @@
 +++ 
 * Et fullverdig prosjekt
 +++ 
-* Intro til Umbraco
