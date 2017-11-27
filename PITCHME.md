@@ -46,10 +46,10 @@
 * Principles & guidelines
 * Show, tell, and share: Dojo
 * Fagkveld kalender
-
-
 ---
-
+### Hva menes med
+Principles & Guidelines?
+---
 
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
 ---
@@ -111,7 +111,8 @@
 +++ 
 * Intro til Umbraco
 +++ 
-* Et fullverdig prosjekt. Åpent for alle å bidra til prosjektet. 
+* Et fullverdig prosjekt. Åpent for alle å bidra. 
+  * git integrasjon (Patrick)
 +++
 * Sommerstudenter: design og utvikling
 +++
@@ -123,7 +124,7 @@
 
 * fag.knowit.tools
 * Intro til Umbraco
-* Et fullverdig prosjekt. Åpent for alle å bidra til prosjektet. 
+* Et fullverdig prosjekt. Åpent for alle å bidra.
 * Sommerstudenter: design og utvikling
 * Faggruppen som produkteier 
 * Faggruppen står for innhold
