@@ -29,12 +29,24 @@
 +++
 * Delt faglig kultur.
 
+---
+
+### Fagportal
+
+* 3 deler
++++
+
+* Principles & guidelines
++++
+* Show, tell, and share: Dojo
++++
+* Fagkveld kalender
 +++
 
 * Principles & guidelines
 * Show, tell, and share: Dojo
 * Fagkveld kalender
-+++
+
 
 <!--![git-branch](https://git-scm.com/book/en/v2/images/basic-branching-6.png)-->
 
