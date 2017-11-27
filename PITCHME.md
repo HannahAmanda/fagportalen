@@ -49,6 +49,29 @@
 ---
 ### Hva menes med
 Principles & Guidelines?
++++
+* Dette er en levende ide, men slik ser vi det for oss foreløpig
++++
+* Teknologi agnostisk
++++
+* Svar på spørsmål som: 
+ +++
+ * Hvor langt tilbake skal jeg browserteste?
+ +++
+ * Hvordan skal jeg levere fra meg et estimat?
+ +++
+ * Hva prioriterer vi utviklere hos Knowit? 
+ +++
+ * Bør jeg utfører Code Review?
+
+---
+### Hva prioriterer vi som utviklere hos Knowit? 
++++
+ Customer over code?
++++
+ Fast delivery over reusability?
++++
+
 ---
 
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
