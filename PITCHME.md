@@ -53,12 +53,12 @@
 
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
 
+
+### Hvorfor
+## trenger vi alt dette?
 ---
 * Code Review er et *veldig* bra første steg.. men.. 
 ---
-### Hvorfor
-## trenger vi alt dette?
-
 +++
 * Everyone is a snowflake
 +++
