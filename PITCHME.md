@@ -59,6 +59,9 @@
 +++
 ![kaos](https://i.imgur.com/mX4UyUc.gif)
 
+
++++
+![smooth](https://i.imgur.com/KGyFG3e.gif)
 +++
 
 * God branding i det faglige miljøet
