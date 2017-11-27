@@ -52,9 +52,23 @@
 ---
 
 ### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
+
 ---
 ### Hvorfor
-## Hvorfor lage dette?
+## trenger vi dette?
+
++++
+* Everyone is a snowflake
++++
+* Uten retningslinjer og enighet om kultur
++++
+![kaos](https://i.imgur.com/mX4UyUc.gif)
++++
+
+
+---
+### Hvorfor
+## Hva er _noen_ av fordelene?
 
 +++
 * Delt faglig kultur
