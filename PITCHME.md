@@ -67,8 +67,8 @@
 
 
 ---
-### Hvorfor
-## Hva er _noen_ av fordelene?
+
+### Hva er _noen_ av fordelene?
 
 +++
 * Delt faglig kultur
