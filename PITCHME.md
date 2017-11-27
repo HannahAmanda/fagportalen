@@ -54,15 +54,15 @@ Principles & Guidelines?
 +++
 * Teknologi agnostisk
 +++
-* Svar på spørsmål som: 
- +++
- * Hvor langt tilbake skal jeg browserteste?
- +++
- * Hvordan skal jeg levere fra meg et estimat?
- +++
- * Hva prioriterer vi utviklere hos Knowit? 
- +++
- * Bør jeg utfører Code Review?
+#### Svar på spørsmål som...
++++
+Hvor langt tilbake skal jeg browserteste?
++++
+Hvordan skal jeg levere fra meg et estimat?
++++
+Hva prioriterer vi utviklere hos Knowit? 
++++
+Bør jeg utfører Code Review?
 
 ---
 ### Hva prioriterer vi som utviklere hos Knowit? 
