@@ -48,6 +48,4 @@
 * Fagkveld kalender
 
 
-<!--![git-branch](https://git-scm.com/book/en/v2/images/basic-branching-6.png)-->
-
 ---
