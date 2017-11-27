@@ -57,7 +57,7 @@
 +++
 * Delt faglig kultur
 +++
-![alt text](https://i.imgur.com/mX4UyUc.gifv)
+![kaos](https://i.imgur.com/mX4UyUc.gifv)
 
 +++
 
