@@ -118,6 +118,8 @@ Om å delta i kulturen vår
 
 +++
 ![smooth](https://i.imgur.com/KGyFG3e.gif)
++++
+* Lettere for andre å samarbeide med utviklere
 
 +++
 * God branding i det faglige miljøet
