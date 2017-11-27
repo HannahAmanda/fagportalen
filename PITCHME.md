@@ -13,14 +13,20 @@
 * Nesten ingen kunne svare med sikkerhet.
 
 
+---
+
+### Hvor skal vi med dette?
 
 ---
 
 ### Fagportal
 
 * En verktøykasse.
++++
 * Delt vokabular.
++++
 * Delte forventninger.
++++
 * Delt faglig kultur.
 
 +++
